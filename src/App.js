@@ -50,7 +50,7 @@ function App() {
             </li>
             <li className="nav-item">
               <Link to="/certification" className="nav-link">
-                Certification
+                certifications
               </Link>
             </li>
           </ul>
