@@ -21,7 +21,7 @@ const Experiences = () => {
             position: 'Stagiaire',
             duration: 'juillet 2022 - septembre 2022',
             location: 'ONEE - MARRAKECH',
-            technologie: 'C# .net',
+            technologie: 'C# .net, SQL SERVER, GitHub, Ado.net',
             sujet: 'Mise en œuvre d\'une application intranet en C# pour la gestion des dossiers de litiges.',
         },
     ];

@@ -5,7 +5,7 @@ function Formations() {
     const formations = [
         {
             diplome: "Ingénierie Informatique et Réseaux Option : Méthodes Informatiques Appliquées à la Gestion des Entreprises (MIAGE)",
-            etablissement: "Ecole Marocaine des Sciences de l'Ingénieur (EMSIMARRAKECH)",
+            etablissement: "Ecole Marocaine des Sciences de l'Ingénieur (EMSI - MARRAKECH)",
             annees: "2021 - en cours",
         },
         {
