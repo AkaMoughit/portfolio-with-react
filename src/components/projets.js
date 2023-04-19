@@ -42,11 +42,11 @@ const Projets = () => {
             location: 'EMSI - MARRAKECH',
             projets: [
                 {
-                    titre: 'Création d un site web pour la location de voitures en ligne',
+                    titre: 'Création d\'un site web pour la location de voitures en ligne',
                     technologie: 'Django',
                 },
                 {
-                    titre: 'Création d un site web pour rechercher des pharmacies dans votre région',
+                    titre: 'Création d\'un site web pour rechercher des pharmacies dans votre région',
                     technologie: 'Spring Boot , React JS',
                 },
                 {
